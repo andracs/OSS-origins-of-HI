@@ -14,6 +14,10 @@ The answers are developed historically, tracing how software sharing became a pl
 
 The chapter suggests that hybrid intelligence depends on the renewal of the commons that feeds it, and that designing for that renewal, through provenance, attribution, and returned value, deserves a central place on the field's agenda in the coming decades. 
 
+## Slideshow
+
+[Placeholder for slideshow præsewnting the chapter]
+
 ## Reading paths
 
 Entry points into the bibliography, for readers who want a route through it rather than an alphabet.
