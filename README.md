@@ -1,2 +1,76 @@
-# os-origins-of-hi
-Programs develop programs: The open source origins of hybrid intelligence (references)
+# Programs develop programs: The open source origins of hybrid intelligence 
+
+This repos contains complementery materials the "Programs develop programs: The open source origins of hybrid intelligence" chapter in "Handbook of Hybrid Intelligence: Unlocking the Potential of Human-Machine Collaboration" (Springer Nature 2026).
+
+## References
+Akata, Z., Balliet, D., de Rijke, M., Dignum, F., Dignum, V., Eiben, G., et al. (2020). A research agenda for hybrid intelligence: Augmenting human intellect with collaborative, adaptive, responsible, and explainable artificial intelligence. Computer, 53(8), 18–28. https://doi.org/10.1109/MC.2020.2996587
+Baack, S. (2024). A critical analysis of the largest source for generative AI training data: Common Crawl. In Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24) (pp. 2199–2208). https://doi.org/10.1145/3630106.3659033
+Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., Jones, A., et al. (2022). Constitutional AI: Harmlessness from AI feedback. arXiv. https://doi.org/10.48550/arXiv.2212.08073
+Becker, J., Rush, N., Barnes, E., & Rein, D. (2025). Measuring the impact of early-2025 AI on experienced open-source developer productivity. arXiv. https://doi.org/10.48550/arXiv.2507.09089
+Bender, E. M., & Friedman, B. (2018). Data statements for natural language processing: Toward mitigating system bias and enabling better science. Transactions of the Association for Computational Linguistics, 6, 587–604. https://doi.org/10.1162/tacl_a_00041
+Benkler, Y. (2006). The wealth of networks: How social production transforms markets and freedom. Yale University Press.
+Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., et al. (2021). On the opportunities and risks of foundation models. arXiv. https://doi.org/10.48550/arXiv.2108.07258
+Bommasani, R., Klyman, K., Longpre, S., Kapoor, S., Maslej, N., Xiong, B., et al. (2024). The Foundation Model Transparency Index. arXiv. https://doi.org/10.48550/arXiv.2310.12941
+Bretthauer, D. (2001). Open source software: A history. Information Technology and Libraries, 21(1), 3–11. https://opencommons.uconn.edu/libr_pubs/7
+Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., et al. (2020). Language models are few-shot learners. In Advances in Neural Information Processing Systems 33 (NeurIPS 2020) (pp. 1877–1901).
+Carlini, N., Tramèr, F., Wallace, E., Jagielski, M., Herbert-Voss, A., Lee, K., et al. (2021). Extracting training data from large language models. In Proceedings of the 30th USENIX Security Symposium (pp. 2633–2650).
+Chen, M., Tworek, J., Jun, H., Yuan, Q., Pinto, H. P. de O., Kaplan, J., et al. (2021). Evaluating large language models trained on code. arXiv. https://doi.org/10.48550/arXiv.2107.03374
+Christiano, P. F., Leike, J., Brown, T. B., Martic, M., Legg, S., & Amodei, D. (2017). Deep reinforcement learning from human preferences. In Advances in Neural Information Processing Systems 30 (NeurIPS 2017).
+Cloud, A., Le, M., Chua, J., Betley, J., Sztyber-Betley, A., Hilton, J., Marks, S., & Evans, O. (2026). Language models transmit behavioural traits through hidden signals in data. Nature, 652, 615–621. https://doi.org/10.1038/s41586-026-10319-8
+Daniotti, S., Wachs, J., Feng, X., & Neffke, F. (2026). Who is using AI to code? Global diffusion and impact of generative AI. Science, 391(6787), 831–835. https://doi.org/10.1126/science.adz9311
+Dell'Acqua, F., McFowland, E., Mollick, E. R., Lifshitz-Assaf, H., Kellogg, K., Rajendran, S., et al. (2023). Navigating the jagged technological frontier: Field experimental evidence on the effects of AI on knowledge worker productivity and quality (Working Paper No. 24-013). Harvard Business School.
+Dellermann, D., Ebel, P., Söllner, M., & Leimeister, J. M. (2019). Hybrid intelligence. Business & Information Systems Engineering, 61(5), 637–643. https://doi.org/10.1007/s12599-019-00595-2
+Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of deep bidirectional transformers for language understanding. In Proceedings of NAACL-HLT 2019 (pp. 4171–4186).
+Doshi, A. R., & Hauser, O. P. (2024). Generative AI enhances individual creativity but reduces the collective diversity of novel content. Science Advances, 10(28), eadn5290. https://doi.org/10.1126/sciadv.adn5290
+Gao, L., Biderman, S., Black, S., Golding, L., Hoppe, T., Foster, C., et al. (2020). The Pile: An 800GB dataset of diverse text for language modeling. arXiv. https://doi.org/10.48550/arXiv.2101.00027
+Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daumé III, H., & Crawford, K. (2021). Datasheets for datasets. Communications of the ACM, 64(12), 86–92. https://doi.org/10.1145/3458723
+Gerstgrasser, M., Schaeffer, R., Dey, A., Rafailov, R., Sleight, H., Hughes, J., et al. (2024). Is model collapse inevitable? Breaking the curse of recursion by accumulating real and synthetic data. arXiv. https://doi.org/10.48550/arXiv.2404.01413
+GitHub. (2024). Octoverse 2024: AI leads Python to top language as the number of global developers surges. The GitHub Blog. https://github.blog/news-insights/octoverse/octoverse-2024/
+GitHub. (2025). Octoverse 2025: A new developer joins GitHub every second as AI leads TypeScript to #1. The GitHub Blog. https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/
+Greshake, K., Abdelnabi, S., Mishra, S., Endres, C., Holz, T., & Fritz, M. (2023). Not what you’ve signed up for: Compromising real-world LLM-integrated applications with indirect prompt injection. In Proceedings of the 16th ACM Workshop on Artificial Intelligence and Security (AISec ’23) (pp. 79–90). https://doi.org/10.1145/3605764.3623985
+Guo, D., Yang, D., Zhang, H., Song, J., Zhang, R., Xu, R., et al. (2025). DeepSeek-R1: Incentivizing reasoning capability in LLMs via reinforcement learning. arXiv. https://doi.org/10.48550/arXiv.2501.12948
+Hess, C., & Ostrom, E. (Eds.). (2007). Understanding knowledge as a commons: From theory to practice. MIT Press.
+Hoffmann, J., Borgeaud, S., Mensch, A., Buchatskaya, E., Cai, T., Rutherford, E., et al. (2022). Training compute-optimal large language models. In Advances in Neural Information Processing Systems 35 (NeurIPS 2022).
+Hoffmann, M., Nagle, F., & Zhou, Y. (2024). The value of open source software (Harvard Business School Strategy Unit Working Paper No. 24-038). https://ssrn.com/abstract=4693148
+Jimenez, C. E., Yang, J., Wettig, A., Yao, S., Pei, K., Press, O., & Narasimhan, K. (2024). SWE-bench: Can language models resolve real-world GitHub issues? In Proceedings of the 12th International Conference on Learning Representations (ICLR 2024). https://doi.org/10.48550/arXiv.2310.06770
+Jordon, J., Szpruch, L., Houssiau, F., Bottarelli, M., Cherubin, G., Maple, C., Cohen, S. N., & Weller, A. (2022). Synthetic data: What, why and how? arXiv. https://doi.org/10.48550/arXiv.2205.03257
+Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., Child, R., et al. (2020). Scaling laws for neural language models. arXiv. https://doi.org/10.48550/arXiv.2001.08361
+Kocetkov, D., Li, R., Ben Allal, L., Li, J., Mou, C., Muñoz Ferrandis, C., et al. (2022). The Stack: 3 TB of permissively licensed source code. arXiv. https://doi.org/10.48550/arXiv.2211.15533
+Lerner, J., & Tirole, J. (2002). Some simple economics of open source. The Journal of Industrial Economics, 50(2), 197–234. https://doi.org/10.1111/1467-6451.00174
+Levy, N. (2021). Bad beliefs: Why they happen to good people. Oxford University Press. https://doi.org/10.1093/oso/9780192895325.001.0001
+Liesenfeld, A., & Dingemanse, M. (2024). Rethinking open source generative AI: Open-washing and the EU AI Act. In Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24) (pp. 1774–1787). https://doi.org/10.1145/3630106.3659005
+Longpre, S., Mahari, R., Chen, A., Obeng-Marnu, N., Sileo, D., Brannon, W., et al. (2024a). A large-scale audit of dataset licensing and attribution in AI. Nature Machine Intelligence, 6, 975–987. https://doi.org/10.1038/s42256-024-00878-8
+Longpre, S., Mahari, R., Obeng-Marnu, N., Brannon, W., South, T., Kabbara, J., & Pentland, S. (2024b). Consent in crisis: The rapid decline of the AI data commons. In Advances in Neural Information Processing Systems 37 (NeurIPS 2024), Datasets and Benchmarks Track. https://doi.org/10.48550/arXiv.2407.14933
+Lutz, C., Newlands, G., & Jarrahi, M. H. (2025). Hybrid intelligence. In W. Xu (Ed.), Handbook of Human-Centered Artificial Intelligence. Springer Nature Singapore. https://doi.org/10.1007/978-981-97-8440-0_87-1
+Mockus, A., Fielding, R. T., & Herbsleb, J. D. (2002). Two case studies of open source software development: Apache and Mozilla. ACM Transactions on Software Engineering and Methodology, 11(3), 309–346. https://doi.org/10.1145/567793.567795
+OpenAI. (2023). GPT-4 technical report. arXiv. https://doi.org/10.48550/arXiv.2303.08774
+OpenAI. (2025). Introducing GPT-5. https://openai.com/index/introducing-gpt-5/
+Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C. L., Mishkin, P., et al. (2022). Training language models to follow instructions with human feedback. In Advances in Neural Information Processing Systems 35 (NeurIPS 2022).
+Paullada, A., Raji, I. D., Bender, E. M., Denton, E., & Hanna, A. (2021). Data and its (dis)contents: A survey of dataset development and use in machine learning research. Patterns, 2(11), 100336. https://doi.org/10.1016/j.patter.2021.100336
+Penedo, G., Kydlíček, H., Ben Allal, L., Lozhkov, A., Mitchell, M., Raffel, C., von Werra, L., & Wolf, T. (2024). The FineWeb datasets: Decanting the web for the finest text data at scale. In Advances in Neural Information Processing Systems 37 (NeurIPS 2024), Datasets and Benchmarks Track. https://doi.org/10.48550/arXiv.2406.17557
+Peng, S., Kalliamvakou, E., Cihon, P., & Demirer, M. (2023). The impact of AI on developer productivity: Evidence from GitHub Copilot. arXiv. https://doi.org/10.48550/arXiv.2302.06590
+Perry, N., Srivastava, M., Kumar, D., & Boneh, D. (2023). Do users write more insecure code with AI assistants? In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS '23) (pp. 2785–2799). https://doi.org/10.1145/3576915.3623157
+Petroni, F., Rocktäschel, T., Lewis, P., Bakhtin, A., Wu, Y., Miller, A. H., & Riedel, S. (2019). Language models as knowledge bases? In Proceedings of EMNLP-IJCNLP 2019 (pp. 2463–2473).
+Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. OpenAI.
+Raymond, E. S. (1999). The cathedral and the bazaar: Musings on Linux and open source by an accidental revolutionary. O’Reilly.
+Risko, E. F., & Gilbert, S. J. (2016). Cognitive offloading. Trends in Cognitive Sciences, 20(9), 676–688. https://doi.org/10.1016/j.tics.2016.07.002
+Santoni de Sio, F., & Mecacci, G. (2021). Four responsibility gaps with artificial intelligence: Why they matter and how to address them. Philosophy & Technology, 34, 1057–1084. https://doi.org/10.1007/s13347-021-00450-x
+Santoni de Sio, F., & van den Hoven, J. (2018). Meaningful human control over autonomous systems: A philosophical account. Frontiers in Robotics and AI, 5, 15. https://doi.org/10.3389/frobt.2018.00015
+Schaeffer, R., Miranda, B., & Koyejo, S. (2023). Are emergent abilities of large language models a mirage? In Advances in Neural Information Processing Systems 36 (NeurIPS 2023). https://doi.org/10.48550/arXiv.2304.15004
+Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Hobbhahn, M., & Villalobos, P. (2022). Compute trends across three eras of machine learning. In 2022 International Joint Conference on Neural Networks (IJCNN). https://doi.org/10.48550/arXiv.2202.05924
+Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R., & Gal, Y. (2024). AI models collapse when trained on recursively generated data. Nature, 631, 755–759. https://doi.org/10.1038/s41586-024-07566-y
+Silver, D., Schrittwieser, J., Simonyan, K., Antonoglou, I., Huang, A., Guez, A., et al. (2017). Mastering the game of Go without human knowledge. Nature, 550, 354–359. https://doi.org/10.1038/nature24270
+Silver, D., & Sutton, R. S. (2025). Welcome to the era of experience. In Designing an intelligence. MIT Press. [Preprint].  https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf 
+Soldaini, L., Kinney, R., Bhagia, A., Schwenk, D., Atkinson, D., Authur, R., et al. (2024). Dolma: An open corpus of three trillion tokens for language model pretraining research. arXiv. https://doi.org/10.48550/arXiv.2402.00159
+Touvron, H., Lavril, T., Izacard, G., Martinet, X., Lachaux, M.-A., Lacroix, T., et al. (2023). LLaMA: Open and efficient foundation language models. arXiv. https://doi.org/10.48550/arXiv.2302.13971
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). Attention is all you need. In Advances in Neural Information Processing Systems 30 (NeurIPS 2017).
+Villalobos, P., Ho, A., Sevilla, J., Besiroglu, T., Heim, L., & Hobbhahn, M. (2024). Will we run out of data? Limits of LLM scaling based on human-generated data. In Proceedings of the 41st International Conference on Machine Learning (ICML 2024). https://doi.org/10.48550/arXiv.2211.04325
+Waight, H., Yang, E., Yuan, Y., Messing, S., Roberts, M. E., Stewart, B. M., & Tucker, J. A. (2026). State media control influences large language models. Nature. https://doi.org/10.1038/s41586-026-10506-7
+Wang, B., Yu, W., Zhong, Y., Yu, H., Lian, K., Lu, C., Zheng, H., Zhang, D., & Li, H. (2025). AI code in the wild: Measuring security risks and ecosystem shifts of AI-generated code in modern software. arXiv. https://doi.org/10.48550/arXiv.2512.18567
+Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., et al. (2022). Emergent abilities of large language models. Transactions on Machine Learning Research. https://doi.org/10.48550/arXiv.2206.07682
+Weidinger, L., Mellor, J., Rauh, M., Griffin, C., Uesato, J., Huang, P.-S., et al. (2021). Ethical and social risks of harm from language models. arXiv. https://doi.org/10.48550/arXiv.2112.04359
+Wellman, B., Salaff, J., Dimitrova, D., Garton, L., Gulia, M., & Haythornthwaite, C. (1996). Computer networks as social networks: Collaborative work, telework, and virtual community. Annual Review of Sociology, 22, 213–238. https://doi.org/10.1146/annurev.soc.22.1.213
+Willison, S. (2025, June 16). The lethal trifecta for AI agents: Private data, untrusted content, and external communication. Simon Willison’s Weblog. https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/
+Yang, J., Jimenez, C. E., Wettig, A., Lieret, K., Yao, S., Narasimhan, K., & Press, O. (2024). SWE-agent: Agent–computer interfaces enable automated software engineering. In Advances in Neural Information Processing Systems 37 (NeurIPS 2024). https://doi.org/10.48550/arXiv.2405.15793
+Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y. (2023). ReAct: Synergizing reasoning and acting in language models. In Proceedings of the 11th International Conference on Learning Representations (ICLR 2023). https://doi.org/10.48550/arXiv.2210.03629
+
