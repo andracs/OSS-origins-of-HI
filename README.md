@@ -16,7 +16,7 @@ The chapter suggests that hybrid intelligence depends on the renewal of the comm
 
 ## Slideshow
 
-![The Open Source Origins of Hybrid Intelligence](https://raw.githubusercontent.com/andracs/OSS-origins-of-HI/main/illustrations/The%20Open%20Source%20Origins%20of%20Hybrid%20Intelligence.png)
+[![The Open Source Origins of Hybrid Intelligence](https://raw.githubusercontent.com/andracs/OSS-origins-of-HI/main/illustrations/The%20Open%20Source%20Origins%20of%20Hybrid%20Intelligence.png)](https://link.excalidraw.com/l/5mPwe5FHx1s/yKMrAEnLr9)
 
 ## Reading paths
 
